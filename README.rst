@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=D2NYvGlbK0M
+
 Kafka Python client
 ------------------------
 
